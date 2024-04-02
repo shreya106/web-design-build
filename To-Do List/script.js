@@ -7,7 +7,7 @@ const listContainer = document.getElementById("list-container");
 function addTask(){
     // if you click on add button without giving any input it will show alert
     if(inputBox.value === ''){
-        alert('You must write something!');
+        alert('You must write something!!');
 
     }
     
